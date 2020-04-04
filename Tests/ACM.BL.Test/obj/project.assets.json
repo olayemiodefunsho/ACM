@@ -1611,6 +1611,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "ACM.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ACM.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ACM.BL.dll": {}
+        }
       }
     }
   },
@@ -5683,10 +5693,16 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "ACM.BL/1.0.0": {
+      "type": "project",
+      "path": "../../ACM.BL/ACM.BL.csproj",
+      "msbuildProject": "../../ACM.BL/ACM.BL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "ACM.BL >= 1.0.0",
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.5.0",
@@ -5700,9 +5716,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/ACM.BL.Test.csproj",
+      "projectUniqueName": "/Users/technicalsuccessmanager/projects/ACM/tests/acm.bl.test/ACM.BL.Test.csproj",
       "projectName": "ACM.BL.Test",
-      "projectPath": "/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/ACM.BL.Test.csproj",
+      "projectPath": "/Users/technicalsuccessmanager/projects/ACM/tests/acm.bl.test/ACM.BL.Test.csproj",
       "packagesPath": "/Users/technicalsuccessmanager/.nuget/packages/",
       "outputPath": "/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/obj/",
       "projectStyle": "PackageReference",
@@ -5720,7 +5736,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/technicalsuccessmanager/projects/ACM/ACM.BL/ACM.BL.csproj": {
+              "projectPath": "/Users/technicalsuccessmanager/projects/ACM/ACM.BL/ACM.BL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

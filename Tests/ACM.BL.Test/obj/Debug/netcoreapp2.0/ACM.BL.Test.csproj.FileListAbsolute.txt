@@ -1,0 +1,15 @@
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/ACM.BL.Test.deps.json
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/ACM.BL.Test.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/ACM.BL.Test.pdb
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/ACM.BL.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/ACM.BL.pdb
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/obj/Debug/netcoreapp2.0/ACM.BL.Test.csproj.CoreCompileInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/obj/Debug/netcoreapp2.0/ACM.BL.Test.AssemblyInfoInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/obj/Debug/netcoreapp2.0/ACM.BL.Test.AssemblyInfo.cs
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/obj/Debug/netcoreapp2.0/ACM.BL.Test.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/obj/Debug/netcoreapp2.0/ACM.BL.Test.pdb
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/technicalsuccessmanager/projects/ACM/tests/acm.bl.test/bin/Debug/netcoreapp2.0/ACM.BL.Test.runtimeconfig.json
+/Users/technicalsuccessmanager/projects/ACM/tests/acm.bl.test/bin/Debug/netcoreapp2.0/ACM.BL.Test.runtimeconfig.dev.json

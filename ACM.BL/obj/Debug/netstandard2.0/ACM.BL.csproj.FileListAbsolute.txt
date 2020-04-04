@@ -1,0 +1,8 @@
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/bin/Debug/netstandard2.0/ACM.BL.deps.json
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/bin/Debug/netstandard2.0/ACM.BL.dll
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/bin/Debug/netstandard2.0/ACM.BL.pdb
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.AssemblyInfoInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.AssemblyInfo.cs
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.dll
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.pdb
