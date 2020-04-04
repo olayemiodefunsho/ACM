@@ -5,6 +5,15 @@ namespace ACM.BL
 {
     public class Customer
     {
+        public Customer()
+        {
+            
+        }
+
+        public Customer(int customerId)
+        {
+            CustomerId = customerId;
+        }
         public int CustomerId { get; private set; }
         public string EmailAddress { get; set; }
         public string FirstName { get; set; }
@@ -33,18 +42,7 @@ namespace ACM.BL
             set { _lastName = value; }
         }
         public static int InstanceCount {get; set;}
-
-        public Customer Retrieve(int customerId)
-        {
-            //Code that retrieves the defined customer
-            return new Customer();
-        }
-
-        public List<Customer> Retrieve()
-        {
-            //Code that retrives all of the customers
-            return new List<Customer>();
-        }
+        
         public bool Validate()
         {
             var isValid = true;
