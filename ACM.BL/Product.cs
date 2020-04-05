@@ -20,17 +20,6 @@ namespace ACM.BL
         public int ProductId { get; private set; }
         public string ProductName { get; set; }
 
-        public Product Retrieve(int customerId)
-        {
-            //Code that retrieves the defined customer
-            return new Product();
-        }
-
-        public bool Save()
-        {
-            // Code that saves the defined product
-            return true;
-        }
         public bool Validate()
         {
             var isValid = true;
