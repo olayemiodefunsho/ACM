@@ -46,7 +46,7 @@ namespace ACM.BL
             set { _lastName = value; }
         }
 
-        public override string ToString() => FullName
+        public override string ToString() => FullName;
         public static int InstanceCount {get; set;}
         
         public bool Validate()

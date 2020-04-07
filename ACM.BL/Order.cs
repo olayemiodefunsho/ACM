@@ -19,7 +19,7 @@ namespace ACM.BL
         public int CustomerId { get; set; }
         public DateTimeOffset? OrderDate { get; set; }
         public int OrderId { get; private set; }
-        public int List<OrderItem> OrderItems { get; set; }
+        public List<OrderItem> OrderItems { get; set; }
         public int ShippingAddressId { get; set; }
 
         public override string ToString() => $"{OrderDate.Value.Date} ({OrderId})";
