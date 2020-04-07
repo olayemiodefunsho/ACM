@@ -44,7 +44,7 @@ namespace ACM.BL.Test
                 {
                     new Address()
                     {
-                        Addresstype = 1,
+                        AddressType = 1,
                         StreetLine1 = "Bag End",
                         StreetLine2 = "Bagshot row",
                         City = "Hobbiton",
@@ -54,7 +54,7 @@ namespace ACM.BL.Test
                     },
                     new Address()
                     {
-                        Addresstype = 2,
+                        AddressType = 2,
                         StreetLine1 = "Green Dragon",
                         City = "Bywater",
                         State = "Shire",
@@ -75,7 +75,7 @@ namespace ACM.BL.Test
 
             for (int i = 0; i < 1; i++)
             {
-                Assert.AreEqual(expected.AddressList[i].Addresstype, actual.AddressList[i].Addresstype);
+                Assert.AreEqual(expected.AddressList[i].AddressType, actual.AddressList[i].AddressType);
                 Assert.AreEqual(expected.AddressList[i].StreetLine1, actual.AddressList[i].StreetLine1);
                 Assert.AreEqual(expected.AddressList[i].City, actual.AddressList[i].City);
                 Assert.AreEqual(expected.AddressList[i].State, actual.AddressList[i].State);
