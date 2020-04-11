@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using Acme.Common;
 
 namespace ACM.BL
 {
-    public class Customer
+    public class Customer : EntityBase, ILoggable
     {
         public Customer(): this(0)
         {
@@ -46,10 +47,12 @@ namespace ACM.BL
             set { _lastName = value; }
         }
 
+        public string Log() => $"{CustomerId}: {FullName} Email: {EmailAddress} Status: {EntityState.ToString()}";
+
         public override string ToString() => FullName;
         public static int InstanceCount {get; set;}
         
-        public bool Validate()
+        public override bool Validate()
         {
             var isValid = true;
 
