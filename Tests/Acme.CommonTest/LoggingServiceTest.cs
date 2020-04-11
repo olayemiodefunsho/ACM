@@ -33,9 +33,6 @@ namespace Acme.CommonTest
 
             // Act
             LoggingService.WriteToFile(changedItems);
-
-            // Assert
-            Assert.AreEqual(expected, actual);
         }
     }
 }
