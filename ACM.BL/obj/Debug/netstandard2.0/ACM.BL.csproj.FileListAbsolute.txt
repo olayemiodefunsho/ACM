@@ -6,3 +6,5 @@
 /Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.AssemblyInfo.cs
 /Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.dll
 /Users/technicalsuccessmanager/projects/ACM/ACM.BL/obj/Debug/netstandard2.0/ACM.BL.pdb
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/bin/Debug/netstandard2.0/Acme.Common.dll
+/Users/technicalsuccessmanager/projects/ACM/ACM.BL/bin/Debug/netstandard2.0/Acme.Common.pdb

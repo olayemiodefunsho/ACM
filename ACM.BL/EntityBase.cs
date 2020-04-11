@@ -14,10 +14,8 @@ namespace ACM.BL
         public bool Haschanges { get; set; }    
         public bool IsNew { get; private set; }
 
-        public bool IsValid
-        {
-            get { return true;}
-        }
+        public bool IsValid => Validate();  
+        public abstract bool Validate();
 
       
     }

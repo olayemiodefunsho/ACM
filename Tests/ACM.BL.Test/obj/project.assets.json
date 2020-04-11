@@ -1615,11 +1615,24 @@
       "ACM.BL/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Acme.Common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ACM.BL.dll": {}
         },
         "runtime": {
           "bin/placeholder/ACM.BL.dll": {}
+        }
+      },
+      "Acme.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Acme.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acme.Common.dll": {}
         }
       }
     }
@@ -5698,6 +5711,11 @@
       "type": "project",
       "path": "../../ACM.BL/ACM.BL.csproj",
       "msbuildProject": "../../ACM.BL/ACM.BL.csproj"
+    },
+    "Acme.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Acme.Common/Acme.Common.csproj",
+      "msbuildProject": "../../Acme.Common/Acme.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {

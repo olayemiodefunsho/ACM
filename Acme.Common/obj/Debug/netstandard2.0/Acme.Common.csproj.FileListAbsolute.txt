@@ -1,0 +1,8 @@
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/bin/Debug/netstandard2.0/Acme.Common.deps.json
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/bin/Debug/netstandard2.0/Acme.Common.dll
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/bin/Debug/netstandard2.0/Acme.Common.pdb
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/obj/Debug/netstandard2.0/Acme.Common.csproj.CoreCompileInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/obj/Debug/netstandard2.0/Acme.Common.AssemblyInfoInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/obj/Debug/netstandard2.0/Acme.Common.AssemblyInfo.cs
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/obj/Debug/netstandard2.0/Acme.Common.dll
+/Users/technicalsuccessmanager/projects/ACM/Acme.Common/obj/Debug/netstandard2.0/Acme.Common.pdb

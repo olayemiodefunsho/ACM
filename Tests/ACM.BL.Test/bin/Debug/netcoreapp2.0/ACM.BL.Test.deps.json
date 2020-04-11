@@ -1000,8 +1000,16 @@
         }
       },
       "ACM.BL/1.0.0": {
+        "dependencies": {
+          "Acme.Common": "1.0.0"
+        },
         "runtime": {
           "ACM.BL.dll": {}
+        }
+      },
+      "Acme.Common/1.0.0": {
+        "runtime": {
+          "Acme.Common.dll": {}
         }
       }
     }
@@ -1510,6 +1518,11 @@
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
     "ACM.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Acme.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

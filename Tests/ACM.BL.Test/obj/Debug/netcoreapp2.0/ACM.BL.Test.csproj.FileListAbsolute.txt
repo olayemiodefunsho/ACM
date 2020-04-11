@@ -13,3 +13,5 @@
 /Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 /Users/technicalsuccessmanager/projects/ACM/tests/acm.bl.test/bin/Debug/netcoreapp2.0/ACM.BL.Test.runtimeconfig.json
 /Users/technicalsuccessmanager/projects/ACM/tests/acm.bl.test/bin/Debug/netcoreapp2.0/ACM.BL.Test.runtimeconfig.dev.json
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/Acme.Common.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/ACM.BL.Test/bin/Debug/netcoreapp2.0/Acme.Common.pdb

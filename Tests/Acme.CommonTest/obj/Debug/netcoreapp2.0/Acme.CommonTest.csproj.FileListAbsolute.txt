@@ -1,0 +1,15 @@
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/obj/Debug/netcoreapp2.0/Acme.CommonTest.csproj.CoreCompileInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/obj/Debug/netcoreapp2.0/Acme.CommonTest.AssemblyInfoInputs.cache
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/obj/Debug/netcoreapp2.0/Acme.CommonTest.AssemblyInfo.cs
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/technicalsuccessmanager/projects/ACM/tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.CommonTest.deps.json
+/Users/technicalsuccessmanager/projects/ACM/tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.CommonTest.runtimeconfig.json
+/Users/technicalsuccessmanager/projects/ACM/tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.CommonTest.runtimeconfig.dev.json
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.CommonTest.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.CommonTest.pdb
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.Common.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/bin/Debug/netcoreapp2.0/Acme.Common.pdb
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/obj/Debug/netcoreapp2.0/Acme.CommonTest.dll
+/Users/technicalsuccessmanager/projects/ACM/Tests/Acme.CommonTest/obj/Debug/netcoreapp2.0/Acme.CommonTest.pdb

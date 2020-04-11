@@ -27,6 +27,44 @@ namespace ACM.BL.Test
             
         }
 
-       
+        [TestMethod]
+        public void SaveTestValid()
+        {
+            //--Arrange
+            var productRepository = new ProductRepository();
+            var UpdateProduct = new Product(2)
+            {
+                CurrentPrice = 18M,
+                ProductDescription = "Assorted Size Set of 4 Bright Yellow Mini SunFlowers",
+                ProductName = "Sunflowers",
+                Haschanges = true
+            };
+            
+            //-- Act
+            var actual = productRepository.Save(UpdateProduct);
+
+            //-- Assert
+            Assert.AreEqual(true, actual);
+        }
+
+        [TestMethod]
+        public void SaveTestMissingPrice()
+        {
+            //--Arrange
+            var productRepository = new ProductRepository();
+            var UpdateProduct = new Product(2)
+            {
+                CurrentPrice = null,
+                ProductDescription = "Assorted Size Set of 4 Bright Yellow Mini SunFlowers",
+                ProductName = "Sunflowers",
+                Haschanges = true
+            };
+            
+            //-- Act
+            var actual = productRepository.Save(UpdateProduct);
+
+            //-- Assert
+            Assert.AreEqual(false, actual);
+        }
     }
 }
